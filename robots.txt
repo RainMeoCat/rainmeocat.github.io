@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+Allow: /about/
+Allow: /thesis/
+Allow: /unboxing/
+Allow: /travel/
+Sitemap: https://www.rainmeocat.com/sitemap.xml
