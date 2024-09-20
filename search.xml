@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>【3C】QK75n的衛星軸調整紀錄、風信子軸v2開箱</title>
+      <link href="/posts/adaeee8.html"/>
+      <url>/posts/adaeee8.html</url>
+      
+        <content type="html"><![CDATA[<p>現在工作使用的QK75n在組好之後才發現有空鍵程和tick音<br>實在是越打越阿雜，所以決定把全部都拆開來重新調整<br>不過既然都拆開了，想說繼續來敗一些軸來用（艸</p><hr><h2 id="風信子軸V2U開箱、潤軸">風信子軸V2U開箱、潤軸</h2><p>所以買了新的風信子軸V2U，真的超級好看…<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240130_120828879.6qyvb4epiz40.webp" alt="PXL_20240130_120828879"><br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240130_120840678.5nznqa7goss0.webp" alt="PXL_20240130_120840678"><br>不過可惜的是我買的是無潤的，結果送來的時候是廠潤RRR<br>而且是從淘寶中國發貨的，所以也懶得去換貨了，決定把上面的油擦乾淨，重新上油<br>風信子軸的廠潤表現其實我個人覺得有點微妙，還是有彈簧音和彈片音<br>所以這次的處理還要多使用22058潤滑油來潤</p><p>這次在大創買了分裝化妝品用的平頭針頭<br>把22058裝進去之後就可以很精準的打進去軸體的彈片裡面<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240201_153014669.5azd47tzhz80.webp" alt="PXL_20240201_153014669"><br>打的位置都在上方的彈片彎折區裡面，還有左右兩側的彈片的內側<br>要注意的是中間的觸點不可以碰到，不然有可能會有無法觸發的問題<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240201_152751416.342z1bb66la0.webp" alt="PXL_20240201_152751416"></p><p>彈片之後，就是普遍的線性軸潤軸法，使用的是3204和GP105：</p><ul><li>軸心四周和小腳都做薄潤</li><li>軸座的導軌兩側也薄潤一下</li><li>彈簧先用GP105做袋潤，接著彈簧的兩端沾一點3204</li><li>組裝的時候要小心軸心的軸柱不要碰到彈簧，不然軸柱有可能會沾到油導致臭軸</li></ul><h2 id="衛星軸調整">衛星軸調整</h2><h3 id="調教">調教</h3><p>來到鍵盤內膽本身，之前是使用厚潤的酒紅軸，其實這款的體質也很常好呢</p><p><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_134526995.1qro0qru8ayo.webp" alt="PXL_20240203_134526995"></p><p>原本的衛星軸：M.ONE衛星軸，其實這款是1.6mm衛星軸，如果需要安裝在1.2mm的PCB上面的話<br>需要使用隨附的衛星軸墊片，但是我忘記了XD<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_140015797.3sfeg4t434w0.webp" alt="PXL_20240203_140015797"></p><p>全部拆開後，針對衛星軸的假軸，我使用了無缺的衛星軸假軸貼片來消除tick音（鐵絲在假軸裡面的撞擊聲音）<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_160029092.2iwykk48rpw0.webp" alt="PXL_20240203_160029092"><br>貼好長這樣<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240204_101702430.26gnj6vje08w.webp" alt="PXL_20240204_101702430"><br>然後用22058的針頭在假軸後方（斜坡處）打一發，然後鐵絲上面也塗一圈<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240204_101749609.62bifnyftuo0.webp" alt="PXL_20240204_101749609"><br>這樣就可以了<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240204_102006004.46ymwzefcn0.webp" alt="PXL_20240204_102006004"><br>此外，MONE的衛星軸鋼絲是真的直，所以我沒有做調整<br>不過，我也嘗試了之前看到的熱縮套管mod，結果MONE的衛星軸假軸孔精度太高，根本插不進去XD<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_143523068.40rbm7mq6y00.webp" alt="PXL_20240203_143523068"></p><h2 id="組裝">組裝</h2><p>這次順便買了炸蝦粒的QK75n消音綿套裝，<br>相比QK75n內付的消音綿，填充度更佳、替換了底綿材料，也增加了聲優墊、底綿額外墊材等<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_140737671.557wfbgis0g0.webp" alt="PXL_20240203_140737671"><br>先上聲優墊再上軸下墊，開始調整衛星軸<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_160617402.2fpr9mbhtfwg.webp" alt="PXL_20240203_160617402"><br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_160801309.6wzhnovucyc0.webp" alt="PXL_20240203_160801309"><br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_161338541.1bmyptm2axog.webp" alt="PXL_20240203_161338541"></p><ul><li>敲起來很肉的話，可能是油給的太多了，以油不要滲到底下為原則</li><li>如果還是有tick音，可以嘗試多給一點油到假軸前面的假軸孔內部</li><li>換一些軸體有奇效，我的一些大鍵的軸體也換了很多個</li></ul><p>確定好大鍵都沒有問題，上夾心綿、再上定位板就可以開始裝軸了</p><p><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_175327911.5kpejgdhp6o0.webp" alt="PXL_20240203_175327911"><br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240204/PXL_20240203_192756519.5wz7mlt4mpk0.webp" alt="PXL_20240203_192756519"></p><h2 id="成果">成果</h2><p>見影片，tick音幾乎沒有了，其實原本其他的大鍵再一些特殊的角度也有這樣討厭的聲音<br>不過在這次大調整之後都不見了<br>可喜可賀～～</p><div class="video-container"><iframe src="https://www.youtube.com/embed/8vW42lzyNRo" frameborder="0" loading="lazy" allowfullscreen></iframe></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 雜談 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3C </tag>
+            
+            <tag> QK75 </tag>
+            
+            <tag> Qwertykeys </tag>
+            
+            <tag> 機械式鍵盤 </tag>
+            
+            <tag> 衛星軸 </tag>
+            
+            <tag> 鍵盤 </tag>
+            
+            <tag> 潤軸 </tag>
+            
+            <tag> 開箱 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【3C】Elecom deft pro 軌跡球更換鉻鋼珠軸承紀錄</title>
+      <link href="/posts/62fddbd7.html"/>
+      <url>/posts/62fddbd7.html</url>
+      
+        <content type="html"><![CDATA[<p>我工作使用的是軌跡球，相比起滑鼠，可以不用一直移動手腕，<br>使用習慣之後雖然操作速度會變慢一些，但手腕真的舒服很多，<s>手腕是拿來玩遊戲的不是工作的</s><br>使用的軌跡球是elecom的deft pro，按鍵很多，四向滾輪、無名指和小指的中鍵等，各方面來說都非常完美。<br>美中不足的是elecom原廠使用的紅寶石軌跡球軸承的滑順度並不是特別滑順，<br>每用一段時間就要把軌跡球拿出來清一下軸承的污垢，軌跡球本身偶爾還需要臉油或額頭油來潤滑一下（噁<br>ptt上面也看到elecom的軌跡球的滑順度也不如羅技等軌跡球，使用了不同材質的軸承來替換掉deft pro的紅寶石軸承，</p><p>例如陶瓷、鉻鋼珠等。</p><p>軌跡球過保後，決定也來更換軌跡球的軸承，並且做個紀錄。</p><hr><p>deft pro有7個螺絲需要卸下，一個藏在貼紙的背面，需要戳破或撕開<br><strong>這款軌跡球的腳墊雙面膠很容易上下分離，可以先用吹風機把雙面膠吹軟後小心撕下</strong><br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_1152034232.2d3bw8vbkukg.webp" alt="PXL_20240123_1152034232"><br>接著在軌跡球的上蓋前端有卡扣，可以用翹的<br>照片中的排線也要用鑷子挑起來斷開<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_120453346.4pevkvoz77y0.webp" alt="PXL_20240123_120453346"><br>然後左側的左鍵區，一樣把排線挑開後垂直往上拔起，圖中是左鍵區唯一固定的垂直卡榫<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_120404940.rzi0n0muz9s.webp" alt="PXL_20240123_120404940"><br>排線都斷開、左鍵區分離後，軌跡球的整體部件就可以拔起來<br>一共有三個塑膠卡榫固定住，一個比較深處，建議先把其他兩個撬開後再翹這個<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_12044787823.4ryuc0gl3h20.webp" alt="PXL_20240123_12044787823"><br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_12045332346.2b5m8trsuo74.webp" alt="PXL_20240123_12045332346"><br>拆起軌跡球部件後，需要解開三個螺絲才可以將其上下分離以更換軸承<br>需要先把感應部件也拆起來<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_120942097.2vduvkpupuc0.webp" alt="PXL_20240123_120942097"><br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_121045201.717tbci7nu80.webp" alt="PXL_20240123_121045201"><br>換下來的紅寶石軸承<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_121256024.611byvfc9y80.webp" alt="PXL_20240123_121256024"><br>這次要換上的鉻鋼珠軸承<br>網購一次要買35顆，剩下的真的不知道要幹嘛（（<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_121304218.75hilji9mpw0.webp" alt="PXL_20240123_121304218"><br>更換完成<br><img src="https://RainMeoCat.github.io/picx-images-hosting/20240128/PXL_20240123_123326788.6qmuurvm31s0.webp" alt="PXL_20240123_123326788"></p><hr><h2 id="更換成果">更換成果</h2><p>變得滑順許多，不過使用久了也還是要拿出來清潔一下<br>就是每次清完能夠使用的時間變長了許多<br>非常推薦更換！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 雜談 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3C </tag>
+            
+            <tag> Deft pro </tag>
+            
+            <tag> Elecom </tag>
+            
+            <tag> 軌跡球 </tag>
+            
+            <tag> Trackball </tag>
+            
+            <tag> 滑鼠 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【開箱】QK75N 75%機械鍵盤套件 開箱</title>
+      <link href="/posts/de651255.html"/>
+      <url>/posts/de651255.html</url>
+      
+        <content type="html"><![CDATA[<p>鎮樓<br><img src="https://imgur.com/1YB4Nkp.jpeg" alt=""></p><hr><p>Qwertykeys的新品鍵盤套件：QK75n<br><img src="https://imgur.com/1YB4Nkp.jpeg" alt=""><br>相比之前出的QK75：</p><ol><li>取消了F13，加上了小螢幕</li><li>將下沉式方向鍵改為非下沉式，這就是為什麼他叫QK75N(Non-Exploded)，整體的看起來更加和諧</li><li>創新的磁吸電子接點，應用在電池和小螢幕的連接，這樣就不用辛苦的插拔排線了</li></ol><p>這次的鍵盤包是墨綠色，蠻好看的<br><img src="https://imgur.com/BqP7sxv.jpeg" alt=""><br>內容物一覽<br><img src="https://imgur.com/OUe8di1.jpeg" alt=""><br>這次使用沒有開槽的PCB，主要追求更加一致的聲音，右上角可以看到連接小螢幕的子電路板<br><img src="https://imgur.com/WmHV8tE.jpeg" alt=""><br>PCB翻到背面就可以看到這次主打的磁吸接點<br><img src="https://imgur.com/R3ML1yF.jpeg" alt=""><br>對應到鍵盤底座的接點和鍵盤頂蓋的小螢幕接點，底座的電池是隱藏起來的：<br><img src="https://imgur.com/kvPairJ.jpeg" alt=""><br><img src="https://imgur.com/uz6vxcz.jpeg" alt=""><br>使用的定位板是碳纖維，實際打起來聲音其實更大聲了，聲音的取向偏向Clack<br><img src="https://imgur.com/dJG2S0A.jpeg" alt=""><br>使用的軸是苦茶紫軸，提前大段落軸，相比起之前使用的小袋鼠品質好太多了<br>小袋鼠各種彈片音、軸孔進油，慘不忍睹<br>花了整整兩天才把一批清理乾淨…<br>衛星軸則是直接使用TX AP衛星軸（加長軸心版）<br>鍵盤附贈的衛星軸有試用過，空鍵程都蠻大的，<br>按起來很晃，有點可惜<br>如果需要使用的話，可以用<br><img src="https://imgur.com/WBgFNmS.jpeg" alt=""><br>鍵帽是MT3 Fairlane 法嵐，已經盡力挑選和外殼相近的顏色了，<br>雖然還有一點色差，但是這樣反而更好看了呢<br><img src="https://imgur.com/h9hA9Fb.jpeg" alt=""><br><img src="https://imgur.com/1YB4Nkp.jpeg" alt=""><br><img src="https://imgur.com/jekC5YY.jpeg" alt=""><br>背面的可愛貓咪銘牌，銘牌裡面還有一個空間可以放無線接收器<br><img src="https://imgur.com/wyx5fy9.jpeg" alt=""><br>基本上只要把上蓋壓上去施點力後螢幕就會接通了，覺得這把鍵盤已經有了這種磁吸接點<br>如果還有快拆設計就更棒了，但想到這個就覺得良率應該很難兼顧，感覺就很容易接觸不良呢<br><img src="https://imgur.com/12izA2i.jpeg" alt=""><br>最後是打字音<br><a href="https://youtu.be/pLV5v6QVeks">https://youtu.be/pLV5v6QVeks</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 開箱 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3C </tag>
+            
+            <tag> QK75 </tag>
+            
+            <tag> Qwertykeys </tag>
+            
+            <tag> 機械式鍵盤 </tag>
+            
+            <tag> 開箱 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【作品集】2022年以前的前端專案概覽</title>
+      <link href="/posts/d8cc24a7.html"/>
+      <url>/posts/d8cc24a7.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="大學專題-LINE-BOT旅遊踩點服務">大學專題-LINE BOT旅遊踩點服務</h2><p>-整合LINE的liff內嵌網頁服務框架，打造的旅遊踩點服務。使用LINE掃描景點當地的販賣機所販賣的禮品Qrcode，除了抽籤小遊戲，也會以LINE的個人資訊登錄去過的景點，收集徽章與當地店家互動。</p><table><thead><tr><th><img src="https://i.imgur.com/yOrxHov.gif" alt=""></th><th><img src="https://i.imgur.com/3tEKI5U.gif" alt=""></th></tr></thead></table><h3 id="使用技術">使用技術</h3><ul><li><p>所使用框架為vue 2，主要能夠向後端以axios請求遊覽紀錄和登錄遊覽、遊戲狀態，並操作google map動畫和根據遊覽紀錄放置圖標。</p></li><li><p>根據google map提供的api文件，還能在網頁上提供自訂義的導航路線圖。</p></li><li><p>除了基礎的methods和mounted，也活用了vue的watch監聽路由跳轉狀態來給予不同的跳轉動畫。</p></li><li><p>所使用的vue UI框架為muse ui。</p></li></ul><p><img src="https://i.imgur.com/bzrwGkY.png" alt=""></p><hr><h2 id="大學專題-LINE-BOT旅遊實境遊戲">大學專題-LINE BOT旅遊實境遊戲</h2><p>延續2019的導遊系統，以景點的Qrcode解析、地圖導遊等特點，開發出一個以AR擴增實境、手機內製陀螺儀遊玩為亮點的文字冒險實境導遊遊戲。<br><img src="https://i.imgur.com/Lyj3P85.png" alt=""></p><h3 id="使用技術-2">使用技術</h3><ul><li><p>將vue 2應用於文字遊戲的開發，能夠從liff內嵌網頁呼叫相機和陀螺儀，也嘗試過景點辨識增加遊戲辨識。</p></li><li><p>遊戲有更多狀態需要紀錄，還有故事劇情、推進進度等，結構龐大。</p></li><li><p>因應龐大的遊戲企劃與團隊溝通需要，初學git並管理程式碼。</p></li><li><p>使用了refs，可以在父組件向子組件呼叫內部的method。</p></li><li><p>開發困難，由於LINE的內置網頁框架限制許多。</p></li></ul><hr><h2 id="學校競賽宣傳網頁開發">學校競賽宣傳網頁開發</h2><p>學校舉辦的比賽-高科盃全國商業智慧競賽，委託我們實驗室進行設計與管理，有別於使用CSS縮放、排列元素來製作手機版，我們設計了兩種獨立頁面，能根據裝置切換版面。</p><p><img src="https://i.imgur.com/pytqdVC.png" alt=""></p><h3 id="使用技術-3">使用技術</h3><ul><li><p>為統一程式碼風格，在vue cli有簡單的方式能引入ESLint，目前編寫已經有了不帶分號、空行不超過兩行、template內縮排與換行限制等習慣。</p></li><li><p>有別於大學專題的特殊版面，一般網頁更需要v-for、v-show等方法應用，以及學習更多的CSS排版技巧。</p></li><li><p>轉移到了vue3，但還是使用OptionAPI。</p></li><li><p>因應vue 3，改用了更新較為頻繁的Element plus。</p></li></ul><hr><h2 id="產學專案-守護神車禍保險網頁">產學專案-守護神車禍保險網頁</h2><p>這是碩專班學生的新創，委託我們實驗室進行設計，除了公司的宣傳版面設計，也製作了車禍發生的處置引導教科書，能夠一步步引導肇事者完成車禍紀錄及保險處理，還有可管理的消息告示。</p><p><img src="https://i.imgur.com/XrbZNJQ.png" alt=""></p><h3 id="使用技術-4">使用技術</h3><ul><li><p>使用了vuex來管理瀏覽狀態，還有登入狀態，也一併學習了vue3版本的vuex生命週期和api(state,commit,action…etc)<br><img src="https://i.imgur.com/ARejLV6.png" alt=""></p></li><li><p>改用了vue3新提供的composition api，能夠解決OptionAPI讓程式碼邏輯順序混亂的問題，同時此專案也以其優勢，將可複用的程式區塊獨立出去給其他頁面使用，大大強化了可讀性和易維護性。<br><img src="https://i.imgur.com/3FxHIhJ.png" alt=""></p></li><li><p>引入了SCSS，變數功能（儘管CSS本身就有）還有更加簡潔的寫法等，融合程式概念(迴圈、模塊化)等特性，簡化了CSS區塊。</p></li><li><p>對於CSS的操作更加靈活，其中一個可複用程式區塊能夠檢測按鈕內的文字是否超出寬度，如果有，就會加上一個跑馬燈動畫。<br><img src="https://i.imgur.com/yQjSV2t.gif" alt=""></p></li><li><p>除此之外也使用了更多的element plus的組件和API。</p></li><li><p>為了與甲方溝通，學習使用figma製作簡單的網頁原型設計來提出自己的想法與設計，除了本專案，後續的碩士研究中，也使用了這個來進行設計，應用在研究計畫及論文中。</p></li></ul><p><img src="https://i.imgur.com/cxGQbvU.png" alt=""></p><h3 id="特殊需求與解決">特殊需求與解決</h3><p>在此專案有消息佈告的需求，同時也有極度大量的文章在教科書中，在研究和討論後使用了markdown解析器的方式，使編寫文章、觀看文章時能夠解析markdown格式並轉換為html tag和對應的css設定，如此一來在文章編輯器上就不用使用太過複雜的第三方編輯器。</p><p><img src="https://i.imgur.com/2ztuWDC.png" alt=""></p><hr><h2 id="碩士研究-空中簽名驗證系統">碩士研究-空中簽名驗證系統</h2><p>我的研究主要關於使用手指在空中書寫的動作，能夠捕捉到手指描繪出的簽名，開發了使用mediapipe來捕捉手部骨架並能夠以canvas呈現簽名的網頁。<br><img src="https://i.imgur.com/ircIOf0.png" alt=""></p><h3 id="使用技術-5">使用技術</h3><ul><li>第一次接觸canvas，能夠使用mediapipe檢測出的骨架座標來進行繪圖，以及以手勢操作描繪出的簽名。</li><li>對於css有更多的想法可以實現（漸層動畫、背景進度動畫）</li><li>對於較為不熟悉的後端在這個專案也略有涉獵，主要是需要將離線的python簽名驗證程序移植到flask上。</li></ul><hr><h2 id="其他專案">其他專案</h2><table><thead><tr><th>logo設計</th><th>banner設計</th></tr></thead><tbody><tr><td><img src="https://i.imgur.com/RIF7qyk.png" alt=""></td><td><img src="https://i.imgur.com/XRKKF5g.png" alt=""></td></tr><tr><td><strong>影片剪輯、動畫製作</strong></td><td><strong>影片剪輯、動畫製作接案</strong></td></tr><tr><td><img src="https://i.imgur.com/ZhvY0Im.png" alt=""></td><td><img src="https://i.imgur.com/N8YvPRN.gif" alt=""></td></tr></tbody></table><hr>]]></content>
+      
+      
+      <categories>
+          
+          <category> Projects </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> projects </tag>
+            
+            <tag> 作品集 </tag>
+            
+            <tag> Vue </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【開箱】QK65 65%機械鍵盤套件三模版 開箱、組裝與心得</title>
+      <link href="/posts/1c50e55c.html"/>
+      <url>/posts/1c50e55c.html</url>
+      
+        <content type="html"><![CDATA[<p>鎮樓<br><img src="https://i.imgur.com/jV6A6l4.jpg?200x200" alt=""><br>入坑第一把客製化鍵盤套件，驚喜的是竟然提早一個半月到<br>太神辣</p><hr><p>官方提供的組裝指南是英文的，我特別把他翻譯成中文的（機翻+潤飾）<br>有需要的人可以參考一下：<a href="https://hackmd.io/@Rainmeo/QK65-build-guild-zh-tw">https://hackmd.io/@Rainmeo/QK65-build-guild-zh-tw</a></p><p>開箱內容物，還有數據捲線和螺絲起子和備用螺絲沒有拍進去<br>上下蓋、PCB、定位板、消音三棉（夾心軸下底殼）、owlstab衛星軸<br>電池、gasket套筒、2.4G接收器、定位螺柱、腳墊<br><img src="https://i.imgur.com/AsUEcxu.jpg" alt=""></p><p>首先需要測試無線PCB的三模功能，照著安裝指南安裝韌體和設定軟體就可以囉<br>除了三模的測試，記得也要先用鑷子測試一下每個軸的運作狀態<br><img src="https://i.imgur.com/UhvsvNw.jpg" alt=""></p><p>接著是安裝衛星軸，原本準備了TX衛星軸來取代，結果我買錯買到7U 哭<br>不過其實owlstab也不錯，而且他透明的設計也符合我想要搭配的風格<br>首先把軸下墊衛星軸的部分修剪掉，用205MIX和XHT-BDZ潤好<br>特別的是他們也附贈了可以支撐鐵絲的矽膠墊</p><div class="note red icon flat"><i class="note-icon fas fa-exclamation-circle"></i><p>另外要提醒的是，因為它是PCB衛星軸，請務必要在這個時候就測試長鍵O不OK<br>不要像我，忘記了這個流程，等我把軸都裝完的時候才發現enter有點雜音，要調教還要把全部的軸拔起來orz</p></div><p><img src="https://i.imgur.com/6rwNEqS.jpg" alt=""></p><p>另外希望有軟一點的手感，所以螺柱安裝跳過<br>鋪上夾心綿和放上定位板，安裝機械軸<br>我用的軸是Duhuk Lumia 抹茶v3，全部重潤<br>廠潤有些都潤到軸心去，幸好量不多，不至於導致臭軸<br><img src="https://i.imgur.com/Sd1pHVJ.jpg" alt=""><br><img src="https://i.imgur.com/ollTo59.jpg" alt=""></p><p>前面的安裝比較困難，你可以用鑷子從定位板下面往上稍微翹曲板子來把軸卡到定位<br>順序可以參考指南:角落→中間→邊緣→其餘部分<br><img src="https://i.imgur.com/DYpdNGA.jpg" alt=""></p><p>安裝完成，上gasket套筒，有夾克和襪套兩種方案<br>這邊使用的是襪套，可以有軟一點的打感<br><img src="https://i.imgur.com/RapTZe5.jpg" alt=""></p><p>另外QK65特別的還有提供了一個專用矽膠墊<br>對應R2的無線設計，多切了一個電池槽<br>如果使用矽膠墊，可以吸收更多的聲音，使聲音更悶更安靜<br>然而這對於追求軟彈手感的可能就有點尷尬了，因為放置了矽膠墊<br>就幾乎沒有什麼空間可以給定位板做下沉了<br><img src="https://i.imgur.com/7XlkKyd.jpg" alt=""></p><p>放進外殼鎖好，上蓋是電泳白，配重塊選擇低調又不失奢華的鏡面材質<br>雖然超級沾指紋，但真的超級好看…<br><img src="https://i.imgur.com/hgOrA3X.jpg" alt=""><br><img src="https://i.imgur.com/I0LI2m4.jpg" alt=""></p><p>最後是鍵帽，選擇了lelelab Crystal SuperX全透鍵帽<br>新版沒有加固橫樑設計，更加簡潔，更漂亮了<br>實際上手時，意外的並不會太過沾指紋，用強光打上去也幾乎看不到指紋<br>不過也因為這樣他的塗層對手指有點阻尼感，需要多打上點油<br>當然也因為透明設計，無法使用耐用性高的字體印刷方式<br>可惜我能盲打的只有注音，如果英文和符號都記起來的話一定會選擇無刻╰（‵□′）╯</p><p>還有個小亮點是win鍵使用了傳統windows95-2000 logo，多了一種前衛的懷舊感<br>我挺喜歡的<br><img src="https://i.imgur.com/2wpHTz8.jpg" alt=""><br><img src="https://i.imgur.com/jV6A6l4.jpg" alt=""></p><p>最後是實際打感，雖然R2漲價了，但還是一個追求客製化鍵盤和全金屬套件的入門好選擇<br>簡簡單單就可以得到非常低沈的麻將打字音，可惜的是忘記了衛星軸的事前調教<br>我真的好懶得全部拆開了（死）</p><p>稍微傷心的價格部分：外殼5190 定位板750 電路板1990 機械軸830 鍵帽1500<br>合計10260</p><p>最後是打字音，使用圓剛AM310錄製，實際聽起來更加低沈喔～<br><a href="https://www.youtube.com/watch?v=0cgEPsCBnqc">https://www.youtube.com/watch?v=0cgEPsCBnqc</a></p><p>小插曲：使用第三天就不小心讓保溫瓶敲到一下<br>再見世界<br><img src="https://i.imgur.com/oUT9pP4.jpg" alt=""></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 開箱 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 3C </tag>
+            
+            <tag> 機械式鍵盤 </tag>
+            
+            <tag> 開箱 </tag>
+            
+            <tag> QK65 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【部落格營建筆記】Gitalk和hexo、github page自定義域名的愛恨糾葛踩坑記錄</title>
+      <link href="/posts/5cd54e86.html"/>
+      <url>/posts/5cd54e86.html</url>
+      
+        <content type="html"><![CDATA[<h1>【部落格營建筆記】Gitalk設定教學—和hexo、github page自定義域名的愛恨糾葛踩坑記錄</h1><div class="note info flat"><p>儘管設定gitalk和hexo的使用已經有很多教學，然而在設定上還是有很多眉角，特別是自定義域名，有很多需要修改的地方，不然就會遇到<code>error not found</code>的問題，本文以butterfly主題為例，一步步帶你設定好gitalk！</p></div><h2 id="建立GitHub-OAuth-Application">建立GitHub OAuth Application</h2><p>建立一個OAuth應用才可以讓Gitalk透過id和secret來存取repo的issue。<br>這裡作者我弄了很久，在排解到底要填什麼XD</p><ol><li>右上角頭像點開，進入自己的帳號設定<br><img src="https://imgur.com/eVKxZe6.jpg" alt=""></li><li>左側欄往下看到Developer settings，進入後再於左側欄點擊OAuth Apps，點擊New OAuth App新增application<br><img src="https://imgur.com/FhbRXRI.jpg" alt=""></li><li>共有四個欄位需要填寫(一個選填)：</li></ol><ul><li>Application name—應用名稱，開心就好</li><li>Homepage URL—你的github page預設網址(<a href="http://xxxxxx.github.io">xxxxxx.github.io</a>)</li><li>Application description—應用描述，開心就好</li><li>Authorization callback URL—你的github page預設網址</li></ul><div class="note red icon flat"><i class="note-icon fas fa-exclamation-circle"></i><p><strong>如果有設定github page的自定義域名，callback URL需要填寫你的自定義域名，Homepage URL則是原本的github.io網址。</strong></p></div><p><img src="https://imgur.com/ls03Ur1.jpg" alt=""></p><div class="note info flat"><p>如果沒有自定義域名，那樣兩個欄位都填github.io網址就可以囉(兩個都是https://xxxxxx.github.io/)</p></div><ol start="4"><li>創建完成，取得Client ID和Client secrets<br>第一次創建application需要點擊<code>Generate a new client secret</code>來生成第一個secret</li></ol><div class="note red icon flat"><i class="note-icon fas fa-exclamation-circle"></i><p>請好好保管這兩筆資料，切勿外洩</p></div><p>接著就可以拿著這兩筆進行gitalk的設定！</p><h2 id="config-butterfly-yml設定gitalk與啟用"><code>_config.butterfly.yml</code>設定gitalk與啟用</h2><h3 id="config-butterfly-yml設定gitalk"><code>_config.butterfly.yml</code>設定gitalk</h3><pre class="line-numbers language-YAML" data-language="YAML"><code class="language-YAML"># gitalk# https:&#x2F;&#x2F;github.com&#x2F;gitalk&#x2F;gitalkgitalk:  client_id:   client_secret:   repo: rainmeocat.github.io  owner: RainMeoCat  admin: RainMeoCat  option:</code></pre><ul><li>client_id—你的Client ID</li><li>client_secret—你的Client secrets</li><li>repo—你的公開靜態網頁repo名稱</li><li>owner—你的帳號名稱</li><li>admin—你的帳號名稱</li></ul><h3 id="config-butterfly-yml以gitalk啟用留言系統"><code>_config.butterfly.yml</code>以gitalk啟用留言系統</h3><pre class="line-numbers language-YAML" data-language="YAML"><code class="language-YAML">comments:  # Up to two comments system, the first will be shown as default  # Choose: Disqus&#x2F;Disqusjs&#x2F;Livere&#x2F;Gitalk&#x2F;Valine&#x2F;Waline&#x2F;Utterances&#x2F;Facebook Comments&#x2F;Twikoo&#x2F;Giscus  use: Gitalk  text: true # Display the comment name next to the button  # lazyload: The comment system will be load when comment element enters the browser&#39;s viewport.  # If you set it to true, the comment count will be invalid  lazyload: false  count: true # Display comment count in post&#39;s top_img  card_post_count: false # Display comment count in Home Pag</code></pre><h2 id="文章或頁面啟用留言功能">文章或頁面啟用留言功能</h2><div class="note success modern"><p>在butterfly Front-matter的comments變數設定true or false(啟用/關閉)</p></div><p>大功告成，如果你的域名使用自定義域名，這樣設定可以正常啟用而不會看到<code>error not found</code>錯誤，如果還有問題歡迎留言～</p><h2 id="參考資料">參考資料</h2><p><a href="https://hsiangfeng.github.io/hexo/20191206/2397475810/">十分鐘超詳細替 Hexo Next 開啟 Gitalk 留言版</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo部落格營造記錄 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> github page </tag>
+            
+            <tag> butterfly </tag>
+            
+            <tag> 自定義域名 </tag>
+            
+            <tag> gitalk </tag>
+            
+            <tag> 踩坑記錄 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【部落格營建筆記】用github action自動部署部落格和踩坑記錄</title>
+      <link href="/posts/d8ead893.html"/>
+      <url>/posts/d8ead893.html</url>
+      
+        <content type="html"><![CDATA[<h1>【部落格營建筆記】手把手帶你用github action自動部署部落格和踩坑記錄</h1><div class="note info flat"><p>本文一步步帶你使用github action自動化部署hexo部落格，讓你在將commit推上專案repo時，自動執行hexo g、hexo d部署上網站repo。除了教學，也會列出所有作者遇到的問題與解決方法！</p></div><h2 id="SSH公私鑰生成與設定">SSH公私鑰生成與設定</h2><p>使用<code>ssh-keygen</code>生成一組公私鑰，公鑰給存放靜態網頁的公開repo(<a href="http://xn--username-p99m.github.io">即username.github.io</a>)，私鑰給存放hexo專案的私人repo</p><pre class="line-numbers language-console" data-language="console"><code class="language-console">ssh-keygen -f github-deploy-key</code></pre><h3 id="私人Hexo專案repo">私人Hexo專案repo</h3><p>Setting → Secrets → New repository secret<br><img src="https://imgur.com/Qbr1oDS.jpg" alt=""><br>Name欄位 輸入 HEXO_DEPLOY_PRI<br>Value欄位 輸入私鑰 github-deploy-key 的內容(begin和end的兩行也需要喔)</p><h3 id="公開靜態網頁repo">公開靜態網頁repo</h3><p>settings → Deploy keys → add deploy key<br><img src="https://imgur.com/ci6YF4v.jpg" alt=""><br>Title欄位 輸入 HEXO_DEPLOY_PUB<br>Key欄位 輸入公鑰 github-deploy-key.pub 的內容</p><div class="note red icon flat"><i class="note-icon fas fa-exclamation-circle"></i><p>記得勾選Allow write access，否則會發生<code>ERROR: The key you are authenticating with has been marked as read only.</code>的問題。</p></div><h2 id="在私人Hexo專案製作一個action腳本">在私人Hexo專案製作一個action腳本</h2><p>選擇Actions分頁後點擊<strong>set up a workflow yourself</strong>製作自己的workflow。</p><pre class="line-numbers language-YAML" data-language="YAML"><code class="language-YAML">name: HEXO CI#workflow名稱on:  push:    branches:    - master#在執行push到master分支時觸發#請特別注意你的repo所使用的主要分支，是main就需要修改為mainjobs:  build:    runs-on: ubuntu-latest    strategy:      matrix:        node-version: [12.x]    steps:      - uses: actions&#x2F;checkout@v1      - name: Use Node.js $&#123;&#123; matrix.node-version &#125;&#125;        uses: actions&#x2F;setup-node@v1        with:          node-version: $&#123;&#123; matrix.node-version &#125;&#125;      - name: Configuration environment        env:          HEXO_DEPLOY_PRI: $&#123;&#123;secrets.HEXO_DEPLOY_PRI&#125;&#125;        run: |          mkdir -p ~&#x2F;.ssh&#x2F;          echo &quot;$HEXO_DEPLOY_PRI&quot; | tr -d &#39;\r&#39; &gt; ~&#x2F;.ssh&#x2F;id_rsa          chmod 600 ~&#x2F;.ssh&#x2F;id_rsa          ssh-keyscan github.com &gt;&gt; ~&#x2F;.ssh&#x2F;known_hosts          git config --global user.name &quot;你的github使用者名稱&quot;          git config --global user.email &quot;你的github電子信箱&quot;# 這裡記得修改成你自己的資料      - name: Install dependencies        run: |          npm i -g hexo-cli          npm i      - name: Deploy hexo        run: |          hexo generate &amp;&amp; hexo deploy</code></pre><div class="note red icon flat"><i class="note-icon fas fa-exclamation-circle"></i><ul><li>請注意第6行的觸發分支(branch)如果你的repo使用<code>main</code>作為主要分支，<code>master</code>就要修改為<code>main</code>。</li><li>第14行原參考資料使用版本為10.x，目前會造成<code>TypeError: Object.fromEntries is not a function</code>的問題，升級到12.x可以解決。</li></ul></div><hr><p>接著就可以按下右上角的start commit按鈕，commit這項變更，並且跑一次workflow。<br>通常是會出現錯誤，以下逐一排解我自己所遇到的錯誤。</p><h2 id="常見錯誤與解答">常見錯誤與解答</h2><hr><h3 id="TypeError-Object-fromEntries-is-not-a-function"><code>TypeError: Object.fromEntries is not a function</code></h3><div class="note success modern"><p>node版本過低，在YAML設定檔變更<code>node-version</code>為<code>[12.x]</code>可以解決。</p></div><hr><h3 id="unknown-block-tag…等本地可使用主題功能，遠端卻無法使用的相關錯誤"><code>unknown block tag</code>…等本地可使用主題功能，遠端卻無法使用的相關錯誤</h3><p>遇到錯誤的當下使用的主題是<a href="https://butterfly.js.org/">butterfly</a></p><div class="note info flat"><p>當你的theme資料夾使用<code>git clone</code>來安裝主題時，clone下來的主題也是一個git專案，預設中對於這種巢狀(?)專案，git會予以忽略，不推上遠端repo，這就造成的遠端生成靜態網頁時沒有主題功能可用的錯誤，以下使用subtree來集中管理hexo專案和主題專案，這樣做就可以將兩者一起推上遠端，<strong>也可以保持主題專案的更新</strong></p></div><ol><li>刪除現有的主題</li></ol><pre class="line-numbers language-console" data-language="console"><code class="language-console">rm -rf themes&#x2F;butterflygit add -Agit commit -m &quot;delete butterfly&quot;git push origin main</code></pre><ol start="2"><li>繫結子專案</li></ol><pre class="line-numbers language-console" data-language="console"><code class="language-console">git remote add -f butterfly https:&#x2F;&#x2F;github.com&#x2F;jerryc127&#x2F;hexo-theme-butterfly.gitgit subtree add --prefix&#x3D;themes&#x2F;butterfly butterfly master --squash</code></pre><ol start="3"><li>更新子專案</li></ol><pre class="line-numbers language-console" data-language="console"><code class="language-console">git fetch butterfly mastergit subtree pull --prefix&#x3D;themes&#x2F;butterfly butterfly master --squash</code></pre><ol start="4"><li>把專案push到遠端倉庫</li></ol><pre class="line-numbers language-console" data-language="console"><code class="language-console">git push origin main</code></pre><hr><h3 id="fatal-could-not-read-Username-for-https-github-com-No-such-device-or-address"><code>fatal: could not read Username for 'https://github.com': No such device or address</code></h3><div class="note success modern"><p>只需要修改你的部署設定為SSH格式，在<code>_config.yml</code>中進行變更。</p></div><pre class="line-numbers language-YAML" data-language="YAML"><code class="language-YAML"># Deployment## Docs: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;one-command-deploymentdeploy:  type: git  repo: https:&#x2F;&#x2F;github.com&#x2F;RainMeoCat&#x2F;rainmeocat.github.io.git  branch: main</code></pre><p>改成SSH格式</p><pre class="line-numbers language-YAML" data-language="YAML"><code class="language-YAML"># Deployment## Docs: https:&#x2F;&#x2F;hexo.io&#x2F;docs&#x2F;one-command-deploymentdeploy:  type: git  repo: git@github.com:RainMeoCat&#x2F;rainmeocat.github.io.git  branch: main</code></pre><hr><h3 id="ERROR-The-key-you-are-authenticating-with-has-been-marked-as-read-only"><code>ERROR: The key you are authenticating with has been marked as read only.</code></h3><div class="note success modern"><p>需要勾選Allow write access，點擊右側delete刪除舊有的公鑰，重新新增公鑰。</p></div><hr><h3 id="github-page使用自定義域名時每次部署都會被重設回github-io的問題">github page使用自定義域名時每次部署都會被重設回github.io的問題</h3><div class="note info flat"><p>github page自定義域名的設定檔由公開靜態網頁repo裡的<code>CNAME</code>檔案進行設定，預設中<code>hexo g</code>是不會產生<code>CNAME</code>檔案的，而每一次部署都是直接使用生成出來的public資料夾直接覆蓋repo，這將導致<code>CNAME</code>遭到清除，以下方式解決，能夠保留<code>CNAME</code>。</p></div><p><strong>在source資料夾底下手動新增<code>CNAME</code>檔案</strong></p><pre class="line-numbers language-none"><code class="language-none">www.rainmeocat.com</code></pre><div class="note red icon flat"><i class="note-icon fas fa-exclamation-circle"></i><p><strong>不要包含https://</strong></p></div><p>這樣每次<code>hexo g</code>就可以包含這個檔案一起生成在public資料夾裡！</p><hr><p>解決這些問題後，每一次有commit推上hexo專案repo時，就能夠自動部署網站了！<br>如果還有問題歡迎留言～</p><h2 id="參考資料-2">參考資料</h2><p><a href="https://op30132.github.io/2020/02/05/github-action/">Hexo + github actions 自動化部署</a><br><a href="http://w4lle.com/2016/06/06/Hexo-themes/index.html">Hexo主題同步</a><br><a href="https://zguishen.com/posts/6821e493.html">升級一下 Hexo</a><br><a href="https://blog.csdn.net/sweet_yaya457/article/details/86081608">git配置時遇到的問題</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Hexo部落格營造記錄 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> github page </tag>
+            
+            <tag> 踩坑記錄 </tag>
+            
+            <tag> github action </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>【翻譯】Upcasting, downcasting 上下轉型</title>
+      <link href="/posts/f6d37f50.html"/>
+      <url>/posts/f6d37f50.html</url>
+      
+        <content type="html"><![CDATA[<h1>Upcasting, downcasting 上下轉型</h1><blockquote><p>Upcasting, downcasting by Sinipull<br>源:<a href="http://forum.codecall.net/topic/50451-upcasting-downcasting/">http://forum.codecall.net/topic/50451-upcasting-downcasting/</a><br>譯:RainMeoCat</p></blockquote><p>Class:類別<br>Object:物件<br>Mammal:哺乳動物</p><p>Upcasting和Downcasting是Java裡很重要的一部分，使我們能夠使用簡單的語法來建構複雜的程式，給我們帶來了很大的便利，例如多型(Polymorphism)或將不同的物件分組。Java允許將子類別的物件視為任何父類別的物件。稱為向上轉型(Upcasting)。向上轉型是自動完成的，而向下轉型必須手動完成，我將盡力解釋為什麼會這樣。</p><h2 id="繼承-Inheritance">繼承 Inheritance</h2><p><img src="https://i.imgur.com/8YqxWX4.png" alt=""><br>這是動物階層的簡化版。可以看到，貓和狗都是哺乳動物，都是動物的延伸，而動物是物件的延伸。繼承於物件是默默做的，我的意思是，Java會將每一個不是繼承於任何一個Class的Class自動繼承於物件，所以全部都是物件（除了基本型別(primitive)）。</p><hr><p>如果你想問：貓不是物件吧?因為他繼承了哺乳動物，而不是物件啊！<br>通過繼承，Cat獲得了其祖先擁有的所有屬性。而物件又是貓的祖父母，意味著貓就是個物件，同時也是動物、哺乳動物，就現實上來說，一個哺乳類動物擁有乳腺，而動物是種生物，那貓也就擁有乳腺，同時也是種生物。<br>對於程式設計師來說，我們不需要為每個可能是動物的生物編寫其具有健康狀態的屬性，我們只需要寫一次，接著透過繼承來讓每種動物擁有其屬性就可以了。<br>來看看以下的範例：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">class Animal &#123;    int health &#x3D; 100;&#125;class Mammal extends Animal &#123; &#125;class Cat extends Mammal &#123; &#125;class Dog extends Mammal &#123; &#125;public class Test &#123;    public static void main(String[] args) &#123;        Cat c &#x3D; new Cat();        System.out.println(c.health);        Dog d &#x3D; new Dog();        System.out.println(d.health);    &#125;&#125;</code></pre><p>執行程式，Console上可以看到兩個100，這是因為貓和狗都從Animal繼承了健康狀態的屬性。</p><h2 id="Upcasting-與-downcasting">Upcasting 與 downcasting</h2><p>首先，你必須知道一件事，透過轉型，你實際上並沒有更改物件本身，而只是對其進行了不同的標記。<br>例如，如果你實作了一隻貓並將其向上轉型為動物，這個不會停止成為貓。它仍然是一隻貓，但是它被當作任何其他動物對待，並且它的貓的屬性被隱藏，直到再次將其向下轉型到貓為止。<br>讓我們看一下轉型前和轉型後的物件的程式碼：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">Cat c &#x3D; new Cat();System.out.println(c);Mammal m &#x3D; c; &#x2F;&#x2F; upcastingSystem.out.println(m);&#x2F;*This printed:Cat@a90653Cat@a90653*&#x2F;</code></pre><p>正如所看到的，這個物件向上轉型後還是一隻貓，它並沒有變成哺乳動物，它只是被貼上哺乳動物的標籤，當成了哺乳動物，這是沒有問題的，因為貓是哺乳動物。</p><p>請注意，即使它們都是哺乳動物，也無法將貓轉型為狗。以下圖片可以使這句話更清楚點。<br><img src="https://i.imgur.com/HpkvgSS.png" alt=""><br>儘管向上轉型不需要程式設計師手動轉型，但還是可以這樣做，看到以下程式碼：<br><code>Mammal m = new Cat();</code><br>等於<br><code>Mammal m = (Mammal)new Cat();</code><br>但是向下轉型必須手動完成：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">Cat c1 &#x3D; new Cat();Animal a &#x3D; c1; &#x2F;&#x2F;自動把Cat向上轉型為AnimalCat c2 &#x3D; (Cat) a; &#x2F;&#x2F;手動向下轉型為Cat</code></pre><p>為什麼要這樣做？好吧，你可以看到向上轉型是一定可以成功的，但是向下轉型就不一定了，如果你有一組動物，你想把他全部向下轉型為貓，那麼就會有可能這些動物中有一些是狗，這將導致錯誤並拋出ClassCastException錯誤資訊</p><p>這裡要介紹一個非常有用的函數，稱為<code>instanceof</code>，此函數用來測試物件是否為某類別的實例，<br>看到以下程式碼：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">Cat c1 &#x3D; new Cat();Animal a &#x3D; c1; &#x2F;&#x2F;向上轉型為動物if(a instanceof Cat)&#123; &#x2F;&#x2F; 測試他是否是一隻貓    System.out.println(&quot;是一隻毛茸茸貓咪，現在我可以放心的向下轉型而不會產生任何錯誤了!&quot;);    Cat c2 &#x3D; (Cat)a;&#125;</code></pre><p>請注意，這兩種方式不一定每次都能夠轉型成功，如果你使用new Mammal()實作一個Mammal物件，你無法將其轉型為Cat或Dog，因為Mammal都不是Cat或Dog(這裡並不是指動物的關係，而是物件間的絕對關係，詳見下面的解釋)<br>例如：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">Mammal m &#x3D; new Mammal();Cat c &#x3D; (Cat)m;</code></pre><p>這段程式碼雖然能夠通過編譯，但是會在執行期間拋出<code>java.lang.ClassCastException: Mammal cannot be cast to Cat</code>錯誤，因為我嘗試把不是Cat的Mammal轉型成Cat。</p><p>轉型背後的大體思路是：哪個物件是哪個？你應該問：<br>貓是一種哺乳動物嗎？是的，所以他可以被轉型。<br>哺乳動物是一種貓嗎？不是，不能轉型。<br>貓是一種狗嗎？不是，不能轉型。</p><hr><p>在這邊有一個很重要的點：<strong>不要把變數當成實例</strong>，一個Cat物件實作後存放於被編譯器視為Mammal的++變數++裡可被轉型為Cat，反之Mammal物件實作後存放於被編譯器視為Mammal的++變數++裡不可被轉型為Cat</p><h2 id="貓不能咕嚕叫了，因為他被當成了其他東西">貓不能咕嚕叫了，因為他被當成了其他東西</h2><p>如果你向上轉型一個物件，它將丟失其所有屬性，這些屬性是從其轉型物件的所有子類別的屬性。<br>例如，如果將貓向上轉型為動物，它將失去哺乳動物和貓的屬性。請注意，在將對象向下轉型到對應類別之前，資料不會消失，只是無法使用。</p><p>為什麼會這樣呢？如果你有一組動物，則不能確定哪些動物可以喵喵叫和哪些可以汪汪叫。這就是為什麼你不能讓Animal做只有狗或貓能做的事情。<br><img src="https://i.imgur.com/mBsPuNe.png" alt=""><br>然而以上狀況並不是一個很大的障礙，如果你使用多型，其特性能夠在呼叫函數時自動向下轉型，我不會在這裡深入探討，但你可以參考Turk4n所撰寫的多型教學：<a href="http://forum.codecal...lymorphism.html">http://forum.codecall.net/topic/49980-polymorphism/</a><br><img src="https://i.imgur.com/nqBc0oC.png" alt=""></p><h2 id="調用函數時的向上轉型">調用函數時的向上轉型</h2><p>型別轉換的美妙之處在於程式設計師可以使許多不同的類別作為參數來傳入方法(method)內<br>例如：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">public static void stroke(Animal a)&#123;    System.out.println(&quot;you stroke the &quot;+a);&#125;</code></pre><p>此方法可以將任何的Animal或其子類別作為參數。例如：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">Cat c &#x3D; new Cat(); Dog d &#x3D; new Dog(); stroke(c); &#x2F;&#x2F; automatic upcast to an Animalstroke(d); &#x2F;&#x2F; automatic upcast to an Animal</code></pre><p>這個做法是沒有任何問題的。<br><img src="https://i.imgur.com/NBBHZyp.png" alt=""></p><p>然而當你有一個貓的物件，但是被一個為Animal的變數所持有，那麼這個變數也無法作為一個參數來傳入限定為Cat類別的方法，必須先向下轉型才可以完成。<br><img src="https://i.imgur.com/wxHVG4d.png" alt=""></p><h2 id="關於變數">關於變數</h2><p>變數能儲存其類別或在其類別的子類別的實例，舉例來說<br><code>Cat c;</code>其變數能夠存有Cat以及繼承其類別的子類別的實例，Animal能存有Animal、Mammal等。<br>要記住的是，存放在其中的實例將永遠向上轉型為其變數的類別層級。</p><h3 id="可是我真的敲想用一隻貓實作出一隻狗">可是我真的敲想用一隻貓實作出一隻狗!!!</h3><p>好吧，你並沒辦法用轉型來達成這件事，然而，物件就只是方法與屬性實作出來的，也就是說你可以用Cat的屬性與方法來在裡面實作出一隻狗。<br>假設你現在有一個Cat Class：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">class Cat extends Mammal &#123;    Color furColor;    int numberOfLives;    int speed;    int balance;    int kittens &#x3D; 0;    Cat(Color f, int n, int s, int B)&#123;        this.furColor &#x3D; f;        this.numberOfLives &#x3D; n;        this.speed &#x3D; s;        this.balance &#x3D; b;    &#125;&#125;</code></pre><p>和一個Dog Class</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">class Dog extends Mammal &#123;    Color furColor;    int speed;    int barkVolume;    int puppies &#x3D; 0;    Dog(Color f, int n, int s, int B)&#123;        this.furColor &#x3D; f;        this.speed &#x3D; s;        this.barkVolume &#x3D; b;    &#125;&#125;</code></pre><p>現在你想要用Cat實作一個Dog，你只需要在Cat底下新增一個方法，並將其屬性轉為其Dog的屬性實作後回傳一個Dog：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">public Dog toDog(int barkVolume)&#123;    Dog d &#x3D; new Dog(furColor, speed, barkVolume);    d.puppies &#x3D; kittens;    return d;&#125;</code></pre><p>可以看到，這兩個類別沒有完全匹配，有些屬性沒有轉換，有些屬性還需要在外部新增，請注意到，我沒有轉換numberOfLives和Balance，並且barkVolume是全新的資料。如果你有兩個類別完全相等，且完全能轉換，那麼歡呼吧！儘管這個情況非常罕見。</p><p>之後就可以用以下的程式碼進行轉換：</p><pre class="line-numbers language-java" data-language="java"><code class="language-java">Cat c &#x3D; new Cat(Color.black, 9, 20, 40);Dog d &#x3D; c.toDog(50);</code></pre><h3 id="感謝閱讀">感謝閱讀!</h3>]]></content>
+      
+      
+      <categories>
+          
+          <category> 程式概念 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Java </tag>
+            
+            <tag> OOP </tag>
+            
+            <tag> 物件導向 </tag>
+            
+            <tag> 繼承 </tag>
+            
+            <tag> 多型 </tag>
+            
+            <tag> 上下轉型 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
